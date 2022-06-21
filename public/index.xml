@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on DigiFun Blogs</title>
+    <link>/</link>
+    <description>Recent content in Home on DigiFun Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>/about/</link>
+      <pubDate>Sun, 12 Jun 2022 15:15:34 +1000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>How did DigiFun start？ DigiFun was founded in October 2021 by four partners who were passionate about blockchain technology and NFTs.
+DigiFun is a communication, production, and investment platform for digital entertainment in the Metaverse, managed in the form of a Decentralized Autonomous Organization (DAO). It’s a mechanism based on UGC to design more user autonomous products to promote its development.
+At first, DigiFun noticed that there was a large group of people who couldn&amp;rsquo;t draw, didn&amp;rsquo;t know how to model or other techniques, but they had a lot of interesting and creative ideas.</description>
+    </item>
+    
+  </channel>
+</rss>

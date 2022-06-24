@@ -2,20 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Home on DigiFun Blogs</title>
-    <link>/</link>
+    <link>https://digifundao.com/blogs/</link>
     <description>Recent content in Home on DigiFun Blogs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 22 Mar 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://digifundao.com/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Us</title>
-      <link>/about/</link>
+      <link>https://digifundao.com/blogs/about/</link>
       <pubDate>Sun, 12 Jun 2022 15:15:34 +1000</pubDate>
       
-      <guid>/about/</guid>
+      <guid>https://digifundao.com/blogs/about/</guid>
       <description>How did DigiFun start？ DigiFun was founded in October 2021 by four partners who were passionate about blockchain technology and NFTs.
 DigiFun is a communication, production, and investment platform for digital entertainment in the Metaverse, managed in the form of a Decentralized Autonomous Organization (DAO). It’s a mechanism based on UGC to design more user autonomous products to promote its development.
 At first, DigiFun noticed that there was a large group of people who couldn&amp;rsquo;t draw, didn&amp;rsquo;t know how to model or other techniques, but they had a lot of interesting and creative ideas.</description>
+    </item>
+    
+    <item>
+      <title>DigiFun Pride Parade: Love Always Wins</title>
+      <link>https://digifundao.com/blogs/blog/1/01/digifun-pride-parade-love-always-wins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://digifundao.com/blogs/blog/1/01/digifun-pride-parade-love-always-wins/</guid>
+      <description>Markdown is a lightweight markup language with plain-text-formatting syntax. Its design allows it to be converted to many output formats, but the original tool by the same name only supports HTML. Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
+History John Gruber created the Markdown language in 2004 in collaboration with Aaron Swartz on the syntax, with the goal of enabling people &amp;ldquo;to write using an easy-to-read and easy-to-write plain text format&amp;rdquo;.</description>
     </item>
     
   </channel>

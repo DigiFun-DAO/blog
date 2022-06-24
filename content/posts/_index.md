@@ -1,8 +1,8 @@
 ---
-title: 'Blog'
-date: 2019-02-24
+title: 'Blogs'
+date: 2022-06-10
 heading:
-  title: Blog
+  title: Blogs
   description: ""
   align: left
 ---

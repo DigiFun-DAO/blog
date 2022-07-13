@@ -8,7 +8,7 @@ author:
 categories: ["Multiverse"]
 description: As the concept of the metaverse is rapidly growing, various multiverse platforms are emerging. According to incomplete statistics, more than $3 billion in active investments are in Metaverse-related companies and projects in the first five months of 2022 alone ( closing date May 22).
 thumbnail: "/images/posts/2/15.jpg"
-image: "/images/posts/2/15.jpg"
+image: "https://digifundao.com/blogs/images/posts/2/15.jpg"
 ---
 
 As the concept of the metaverse is rapidly growing, various multiverse platforms are emerging. According to incomplete statistics, more than $3 billion in active investments are in Metaverse-related companies and projects in the first five months of 2022 alone ( closing date May 22). (Data sources: Cointelegraph [[1]](#ref), Coindesk [[2]](#ref), Blockchain Daily [[3]](#ref))
@@ -29,7 +29,7 @@ A pool of different metaverse spaces is Multi-Verse. For example, so many takeaw
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/1.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/1.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -59,7 +59,7 @@ Decentraland, a metaverse platform running on Ethereum and Polygon, has leaped t
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/2.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/2.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -83,7 +83,7 @@ Based on this, Decentraland hosted Metaverse Fashion Week (MVFW) in March this y
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/3.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/3.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -107,7 +107,7 @@ E-commerce brand Cider is one of them, the brand launched its retail space durin
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/4.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/4.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -133,7 +133,7 @@ The Sandbox is a meta-verse gaming platform and also a gamified virtual world (L
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/5.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/5.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -159,7 +159,7 @@ The Sandbox has secured over 60 partnerships to develop a range of business vert
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/6.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/6.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -181,7 +181,7 @@ Crypto Voxels is also a metaverse platform running on Ethereum and Polygon that 
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/7.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/7.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -207,7 +207,7 @@ Here, people are often struck by the highly stylized and aesthetically pleasing 
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/8.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/8.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -223,7 +223,7 @@ Here, people are often struck by the highly stylized and aesthetically pleasing 
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/9.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/9.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -261,7 +261,7 @@ For example, the emerging online meeting metaverse platform Gather. Different fr
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/10.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/10.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -281,7 +281,7 @@ Thus it can be seen,no single metaverse platform can cover the needs of all diff
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/11.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/11.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -305,7 +305,7 @@ A growing number of young people spend most of their time in the virtual world, 
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/12.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/12.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -337,7 +337,7 @@ Currently, users can already transfer DigiFun's metaverse wearable between Decen
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/13.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/13.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -355,7 +355,7 @@ Through a cross-metaverse bridge, users can safely transfer NFT assets in Decent
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/14.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/14.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -379,7 +379,7 @@ DigiFun is a digital fashion brand in the metaverse (@DigiFun_), launching a lin
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/15.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/15.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -399,7 +399,7 @@ Currently, DigiFun has gathered dozens of designers and modelers, mainly focusin
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/16.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/16.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -417,7 +417,7 @@ DigiFun collaborated with major traditional fashion brands to customize virtual 
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/17.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/17.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -433,7 +433,7 @@ DigiFun collaborated with major traditional fashion brands to customize virtual 
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/18.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/18.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -449,7 +449,7 @@ DigiFun collaborated with major traditional fashion brands to customize virtual 
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/2/19.jpg"
+      src="https://digifundao.com/blogs/images/posts/2/19.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;

@@ -8,7 +8,7 @@ author:
 categories: ["Pride Parade", "Love Always Wins"]
 description: Decentraland's Pride Parade will kick off on June 11 at 9 p.m. UTC, and DigiFun will participate in the parade by showcasing the NFT wearable “Phoenix Pride Wings” created by LGBTQIA+ artists. And an After Party after the parade to celebrate Pride Month.
 thumbnail: "/images/posts/1/1.png"
-image: "/images/posts/1/1.png"
+image: "https://digifundao.com/blogs/images/posts/1/1.png"
 ---
 
 ## Pride Parade
@@ -17,7 +17,7 @@ image: "/images/posts/1/1.png"
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/1/2.jpg"
+      src="https://digifundao.com/blogs/images/posts/1/2.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -39,7 +39,7 @@ Pride parades vary in location and date and are held around June and July each y
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/1/3.jpg"
+      src="https://digifundao.com/blogs/images/posts/1/3.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -63,7 +63,7 @@ The event will carry out the slogan "love is love". According to Lara Dias, even
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/1/4.jpg"
+      src="https://digifundao.com/blogs/images/posts/1/4.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -93,7 +93,7 @@ The pronunciation of "wings" is similar to that of "wins". DigiFun hopes that th
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/1/5.jpg"
+      src="https://digifundao.com/blogs/images/posts/1/5.jpg"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;
@@ -115,7 +115,7 @@ Participants were able to celebrate, enjoy music and dancing, and all participan
 <center>
     <img 
       style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);"
-      src="/images/posts/1/6.png"
+      src="https://digifundao.com/blogs/images/posts/1/6.png"
     >
     <div 
       style="color:orange; border-bottom: 1px solid #d9d9d9;

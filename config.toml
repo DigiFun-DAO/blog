@@ -1,4 +1,5 @@
-baseURL = "/"
+baseURL = "https://digifundao.com/blogs/"
+# baseURL = "/"
 languageCode = "en-us"
 title = "DigiFun Blogs"
 theme = "hugo-atlantic-theme"

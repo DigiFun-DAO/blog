@@ -14,7 +14,7 @@ paginate = 3
   google_analytics_id = ""
 
   [params.homepage]
-    postLimit = 6
+    postLimit = 100
     
   [params.logo]
     showLogoTextOnDesktop = true
